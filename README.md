@@ -14,4 +14,10 @@ VIP Customers Segment Insight Top Customers High spending Others Lower spending 
 
 Sales Trend Sales remain relatively stable over time with slight fluctuations. This indicates consistent business performance.
 
-## 🗄️ SQL Query Explanation SELECT: Retrieve data from tables INSERT: Add new customer data UPDATE: Modify customer information GROUP BY + SUM: Sales aggregation 🔧 Tech Stack Python Streamlit SQLite Pandas Plotly 🌐 Deployment Streamlit App: (https://my-website-bmx3w3zmtvdyhfwa2kc2mh.streamlit.app/) GitHub Repo: https://github.com/boma4607-creator/my-website ✅ Conclusion The dashboard visualizes business performance and supports customer management. It helps identify key markets, popular genres, and high-value customers.
+## 🗄️ SQL Query Explanation 
+SELECT: Retrieve data from tables 
+INSERT: Add new customer data 
+UPDATE: Modify customer information 
+GROUP BY + SUM: Sales aggregation 
+🔧 Tech Stack Python Streamlit SQLite Pandas Plotly 
+🌐 Deployment Streamlit App: (https://my-website-bmx3w3zmtvdyhfwa2kc2mh.streamlit.app/) GitHub Repo: https://github.com/boma4607-creator/my-website ✅ Conclusion The dashboard visualizes business performance and supports customer management. It helps identify key markets, popular genres, and high-value customers.
