@@ -1,4 +1,6 @@
 #Chinook Data Analytics Dashboard 
+
+
 📌 Project Overview This project is a Streamlit-based data analytics dashboard using the Chinook SQLite database. It provides insights into sales, customers, genres, and employee performance, along with customer management (CRUD functionality).
 
 🚀 Features Sales Overview Dashboard Customer & Country Analysis Genre & Product Analysis Employee Performance Analysis Customer Management (View, Add, Update) 
